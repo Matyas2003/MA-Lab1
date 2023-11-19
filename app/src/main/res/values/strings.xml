@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="edit_data">Edit Task</string>
+    <string name="priority">Priority: </string>
+    <string name="status">Status: </string>
+</resources>
